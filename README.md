@@ -14,7 +14,7 @@ Running the project
 
 Project Developer
 --------------------------------------------------------------------------------------
-Manish S Patil
-Suman K
-Vandanashreyas S
-Indhumathi R
+Manish S Patil,
+Suman K,
+Vandanashreyas S,
+Indhumathi R.
